@@ -1,0 +1,8 @@
+header, main, footer {
+    max-width: 800px; /* Ajusta este valor según tus necesidades */
+    margin: 0 auto;
+}
+
+.pelicula img {
+    max-width: 50%;
+}
